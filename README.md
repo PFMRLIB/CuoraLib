@@ -6,3 +6,4 @@ The library was named after Cuora, a kind of turtle (Asian box turtle).
 ## Index
     CuoraWire:A simple TWI library for TWI master operations.
     Cuora5883:A library for 3-axis mangetic sensor QMC5883L.
+    CuoraGP2Y0E03:A library for distance sensor GP2Y0E03.
